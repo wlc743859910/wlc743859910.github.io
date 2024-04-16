@@ -226,7 +226,7 @@ Here are some ideas to get you started:
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/{wlc743859910/wlc743859910.github.io}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{wlc743859910.github.io}/count.svg)
 
 ---
 
