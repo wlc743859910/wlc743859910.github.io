@@ -205,23 +205,23 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/blob/master/img/1.webp">
+  <img src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/master/img/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/blob/master/img/2.webp">
+  <img src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/master/img/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/blob/master/img/3.webp">
+  <img src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/master/img/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/blob/master/img/4.webp">
+  <img src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/master/img/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/blob/master/img/5.webp">
+  <img src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/master/img/5.webp">
 </p>
 
 ---
@@ -300,23 +300,23 @@ Copyright © 2008-2024 Powered by wlc743859910. Inc. All Rights Reserved. 我只
 ---
 
 ### Languages and Frameworks
-<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/blob/master/img/html.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/blob/master/img/css.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/blob/master/img/javascript.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/blob/master/img/nodejs.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/blob/master/img/python.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/master/img/html.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/master/img/css.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/master/img/javascript.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/master/img/nodejs.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/master/img/python.png"></code>
 
 ---
 
 ### Tools
-<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/blob/master/img/git.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/blob/master/img/visual-studio-code.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/blob/master/img/macos.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/master/img/git.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/master/img/visual-studio-code.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/master/img/macos.png"></code>
 
 ---
 
 ### Interested
-<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/blob/master/img/unity.png"></code>
-<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/blob/master/img/unreal-engine.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/master/img/unity.png"></code>
+<code><img height="23" src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/master/img/unreal-engine.png"></code>
 
 ---
