@@ -186,7 +186,7 @@ Here are some ideas to get you started:
 
 # 📈 GitHub 统计主题
 
-<img src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/blob/master/img/grs-themes.webp" alt="GitHub Readme Stat Themes" width="888px"/>
+<img src="https://raw.gitmirror.com/wlc743859910/wlc743859910.github.io/master/img/grs-themes.webp" alt="GitHub Readme Stat Themes" width="888px"/>
 
 ---
 
