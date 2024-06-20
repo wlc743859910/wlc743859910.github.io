@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center"><a href="https://www.743859910.cn"><img src="https://raw.gitmirror.com/743859910/743859910.github.io/master/img/logo.webp" alt="logo" width="300" /></a></p>
-<p align="center"><b>743859910</b></p>
+<p align="center"><b>743859910.github.io</b></p>
 <p align="center">
 <a href="https://github.com/743859910/743859910.github.io/stars"><img src="https://img.shields.io/github/stars/743859910/743859910.github.io?color=yellow"></a>
 <a href="https://github.com/743859910/743859910.github.io/forks"><img src="https://img.shields.io/github/forks/743859910/743859910.github.io?color=Yellow"></a>
@@ -76,17 +76,13 @@ Here are some ideas to get you started:
 
 > 电子邮箱：743859910#qq.com（请自行将#更换为@）
 
-> 我的个人官网：https://www.*******.cn/ 规划建设中...计划于2025.2.28正式上线运营
+> 我的个人官网：https://www.*******.cn/ 规划建设中...计划于2025.2.28正式上线运营 主域名
 
-> 我的个人官网：https://www.*******.com/ 规划建设中...计划于2025.2.28正式上线运营
+> 我的个人官网：https://www.*******.com/ 规划建设中...计划于2025.2.28正式上线运营 备用域名
 
-> 我的个人官网：https://www.*******.net/ 规划建设中...计划于2025.2.28正式上线运营
+> 我的个人官网：https://www.*******.net/ 规划建设中...计划于2025.2.28正式上线运营 备用域名
 
-> 我的个人官网：https://www.*******.org/ 规划建设中...计划于2025.2.28正式上线运营
-
-> 我的个人官网：https://www.*******.eu.org/ 规划建设中...计划于2025.2.28正式上线运营
-
-> 我的个人官网：https://www.*******.cn.eu.org/ 规划建设中...计划于2025.2.28正式上线运营
+> 我的个人官网：https://www.*******.org/ 规划建设中...计划于2025.2.28正式上线运营 备用域名
 
 ---
 
@@ -94,15 +90,13 @@ Here are some ideas to get you started:
 
 懒癌/强迫症/拖延症/ 三合一晚期患者(已弃疗)
 
-20世纪90年代初；
-
-本人搭上了九零后列车的第二节车厢；来到了这个所谓的21世纪；从2005年开始涉足互联网；
+20世纪90年代初期；本人搭上了九零后列车的第二节车厢；来到了这个所谓的21世纪；从2005年开始涉足互联网；
 
 对网站建设略懂一二，对电子商务一知半解！
 
 擅长 Ai、Fw、Fl、Br、Ae、Pr、Id、PS 等软件的安装与卸载；
 
-2010年开始做淘宝，截至目前仍然是一家个体工商户、三家商贸公司法定代表人、三家商贸公司股东；
+2010年开始做淘宝，截至目前仍然是一家个体工商户法人、三家商贸公司法人、三家商贸公司股东；
 
 网络时代的爬虫，熟悉 Halo、Hexo、Ghost、Z-blog、Discuz、MacCMS、Typecho、PHPwind、WordPress 等开源程序；
 
@@ -204,24 +198,38 @@ Here are some ideas to get you started:
 
 ---
 
+# stars History
+<p align='center'>
+  <a href="https://github.com/743859910/743859910.github.io/stargazers">
+    <img src="https://api.star-history.com/svg?repos=743859910/743859910.github.io&type=Date">
+  </a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://raw.gitmirror.com/743859910/743859910.github.io/master/img/1.webp">
+  </a>
 </p>
 
 <p align="center">
   <img src="https://raw.gitmirror.com/743859910/743859910.github.io/master/img/2.webp">
+  </a>
 </p>
 
 <p align="center">
   <img src="https://raw.gitmirror.com/743859910/743859910.github.io/master/img/3.webp">
+  </a>
 </p>
 
 <p align="center">
   <img src="https://raw.gitmirror.com/743859910/743859910.github.io/master/img/4.webp">
+  </a>
 </p>
 
 <p align="center">
   <img src="https://raw.gitmirror.com/743859910/743859910.github.io/master/img/5.webp">
+  </a>
 </p>
 
 ---
@@ -271,8 +279,8 @@ Copyright © 2008-2024 Powered by 743859910. Inc. All Rights Reserved. 我只是
 ---
 
 ### Code Rating
-<img align="left" height="180px" width="auto" src="https://github-readme-stats-mu-lilac-56.vercel.app/api?username=FW27623&hide_title=false&show_icons=true&line_height=21&icon_color=0078e7&title_color=0078e7&locale=en">
-<img align="center" height="180px" width="auto" src="https://github-readme-stats-mu-lilac-56.vercel.app/api/top-langs/?username=FW27623&hide_title=false&show_icons=true&line_height=21&icon_color=0078e7&title_color=0078e7&locale=en">
+<img align="left" height="180px" width="auto" src="https://github-readme-stats-mu-lilac-56.vercel.app/api?username=743859910&hide_title=false&show_icons=true&line_height=21&icon_color=0078e7&title_color=0078e7&locale=en">
+<img align="center" height="180px" width="auto" src="https://github-readme-stats-mu-lilac-56.vercel.app/api/top-langs/?username=743859910&hide_title=false&show_icons=true&line_height=21&icon_color=0078e7&title_color=0078e7&locale=en">
 <br>
 
 ---
@@ -304,5 +312,64 @@ Copyright © 2008-2024 Powered by 743859910. Inc. All Rights Reserved. 我只是
 ### Interested
 <code><img height="23" src="https://raw.gitmirror.com/743859910/743859910.github.io/master/img/unity.png"></code>
 <code><img height="23" src="https://raw.gitmirror.com/743859910/743859910.github.io/master/img/unreal-engine.png"></code>
+
+---
+
+<!-- https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20743859910!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
+
+<!-- https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
+</p>
+
+<p align="center">
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=743859910&theme=transparent&show_icons=true&hide_border=true" />
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=743859910&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+<br/>
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=743859910&theme=github-compact&hide_border=true&area=true" />
+<br/>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=743859910&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=743859910&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<br/>
+<!-- https://github.com/tandpfun/skill-icons -->
+<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
+</p>
+
+<!-- https://github.com/badges/shields -->
+<p align="center">
+<a href="https://github.com/743859910"><img src="https://img.shields.io/badge/GitHub-743859910-blue?logo=github" /></a>
+<a href="https://743859910.blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-743859910-red?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAB+FBMVEUAAABqMy7wroeAUEvuso1vOTNwOzbxt5WKYFyniYm/qKLe3s1sNTBsNjGQVkhvODR6Rj7ip4XutZOCU07wtpXxupnst5eKXFmJXlrwu5qKbWryv6Hzx62gfXuwiYb44tNvODNWNSuKUUbwr4iKUkXwsImCVUZ3Qjt5UkN3QjvwsYtGLSfws454SERyPzp4RD/ws4/ws49xPzvvtI/xtJBPODJ7S0Z7SkXWnIFiTkbVnIGCU0/ps5TxvaDwvqGSaWWSaGiOaGSTb2uPamXzx7HxyrCjhHrwrYVqMi3wrITuq4RrMy63eF9jPS/Cg2fupoLqqIHopoDfn3rXlnXAfmSwcluNWkfioHzmkXrihXXccW2zdFypbFehZlKFWUVzSTlwSTh7QThuNS9VMyjto4HlpH7ionzjh3bXmXXOkG/Mi22tb1l/UUB9TT15TDxtRzZcNytZNypRMCVPLiTrnn/cnXnZm3fZmHbhgXTddG7IiGvMgGrPY2S2gGK+e2K1dl7CXV6uel28WlqocFika1WnalWdbFOaYk6dYE6SYUySVkaQVUaIVkSCV0OHVEOJTkF4UD2CRTxmQTJaLCZXKyVNKyJJJR9EIx0+IRrTknLffXLabWzZbGzFi2u5emGucFqicVeXaFCSXUp1STpdOy1hNyxdMilXMCfoEl0hAAAAR3RSTlMA/vqLn+7meVAWDgX59/X13LSGgoF7c2hdVlJQLSklEff18/Ly7+zs5ubi4djX1szHxMG5uLSjnZaJhn1pXldEPT05Ny4nGbaUVn8AAAIPSURBVDjLvdNFlxpBEMDxBgLsknX3jbu7e1I1wzC4OyzusO7u7nFPvmYGwr4HWZJc8vI71at/H/rQTf65g3/pReclTX/qj0rKL175fW4ViBCRd0HQWjC/uFGCWaU3i/f3hyLMIXq873alKJVma3oqL8rvTw7Ns+qeALOCuMIEetTsvPBpbpdUsBSk0SMjdGag2ApJzgEBC4qxJdtQJtJDNtuYAjSCvfpMfKeMUslkOp3MoQTwxNLTup4uuyVuSfcqPoTeUfbIicN2JqoDsEW1p9zh6CowIeDXEXIfaMNasHtr+fb1nWXG7fEmGXvT2e2ZlCq4ZqChmVwC46Ar+DYe2dndjAzHk6nEsGx7d+NTPNDvGvTBVXKGMo3ie3/K8n3jm0WT6PK7NTNbm1/Nya4QjvbBOXIZjOPoVK4vmq1mzdwSUKtzGq2VWYwpnTjug2vkAdADiFa12z45EZZ5AVRfwhOTnxPdVsQBit9MiJivkqJ0Vv0x5vig1FOU3jPtcEz7Z7mlil9LOC33TiOiUwEAL139rEvNDQontzpZ95z8VI2IC8BRar16rSI9LXCrarKnWIhogTwWRGHOo2jgoRnA4Ms0ymgA0CKvgeS4y5sC6DAZ5UB19PbJAaZ4ApKn/gjNnXj1xmR63ct1+lg9+UVbJXDknZ1y4FS2Ffgytcch62hN4f/T3lhzgFPV2E7+qx9xsqq+PsbsOwAAAABJRU5ErkJggg==" /></a>
+<a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-743859910-pink?logo=bilibili" /></a>
+<img src="https://img.shields.io/badge/QQ-743859910-green?logo=tencentqq" />
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+<img src="https://komarev.com/ghpvc/?username=743859910&abbreviated=true&color=yellow" />
+</p>
+
+<!-- https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+</p>
+
+---
+
+## 特别声明:
+
+* 本仓库发布的`SmsForwarder`项目中涉及的任何代码/APK，仅用于测试和学习研究，禁止用于商业用途，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断。
+
+* 任何用户直接或间接使用或传播`SmsForwarder`的任何代码或APK，无论该等使用是否符合其所在国家或地区，或该等使用或传播发生的国家或地区的法律，`pppscn`和/或代码仓库的任何其他贡献者均不对该等行为产生的任何后果（包括但不限于隐私泄露）负责。
+
+* 如果任何单位或个人认为该项目的代码/APK可能涉嫌侵犯其权利，则应及时通知并提供身份证明，所有权证明，我们将在收到认证文件后删除相关代码/APK。
+
+* 隐私声明： **SmsForwarder 不会收集任何您的隐私数据！！！** APP启动时发送版本信息发送到友盟统计；手动检查新版本时发送版本号用于检查新版本；除此之外，没有任何数据！！！
+
+* 防诈提醒： `SmsForwarder`完全免费开源，请您在 [打赏](https://gitee.com/pp/SmsForwarder/wikis/pages?sort_id=4912193&doc_id=1821427) 前务必确认是否出于自愿？本项目不参与任何刷单返利担保！**请您远离刷单返利陷阱，谨防网络诈骗！**
 
 ---
