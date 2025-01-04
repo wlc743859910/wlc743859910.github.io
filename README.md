@@ -38,6 +38,6 @@
 
 MIT License
 
-Copyright © 2008-2024 Powered by 743859910. Inc. All Rights Reserved. 我只是你的过客工作室. 版权所有
+Copyright © 2008-2025 Powered by 743859910. Inc. All Rights Reserved. 我只是你的过客工作室. 版权所有
 
 ---
